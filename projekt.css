@@ -1,0 +1,226 @@
+body {
+    background-color: #020111;
+    color: aliceblue;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    }
+div {
+    background-color: white;
+}
+#header {
+    height: 14vh;
+    background-color: #020111;
+    text-align: center;
+    line-height: 10vh;
+    font-size: 20pt;
+}
+.main {
+   
+    height: 60vh;
+    background-image: url("zdj5.jpeg");
+    background-position: center;
+    background-size: cover;
+    width: 80vw;
+    margin: 0 auto;
+}
+.opis {
+    height: 30vh;
+    width: 80vw;
+    margin: 0 auto;
+    margin-top: 30vh;
+    color: rgb(255, 255, 255);
+    font-size: 16pt;
+    padding: 1em;
+    background: none;
+}
+
+
+.dane {
+    height: 20vh;
+    width: 80vw;
+    margin: 0 auto;
+    margin-top: 30vh;
+    margin-bottom: 10vh;
+    background-color: darkgray;
+    background: none;
+}
+div span {
+    font-style: oblique;
+}
+#info1 {
+    color: white;
+    font-size: 16pt;
+    margin-left: 17em;
+    margin-top: 1.5em;
+    margin-bottom: 0;
+   
+}
+#info2 {
+    color: white;
+    font-size: 16pt;
+    margin-left: 17em;
+    margin-top: 1.5em;
+    margin-bottom: 0;
+}
+#info3 {
+    color: white;
+    font-size: 16pt;
+    margin-left: 17em;
+    margin-top: 4em;
+    margin-bottom: 0;
+}
+#info4 {
+    color: white;
+    font-size: 16pt;
+    margin-left: 17em;
+    margin-top: 4em;
+    margin-bottom: 0;
+}
+.wykształcenie {
+    height: 30vh;
+    width: 80vw;
+    margin: 0 auto;
+    margin-top: 30vh;
+    color: rgb(255, 255, 255);
+    font-size: 16pt;
+    padding: 1em;
+   /* background: none;*/
+}
+
+/*.side {
+    background-color: rgb(17, 0, 20);
+    position: fixed;
+    right: 0;
+    top: 50%;
+    width: 2vw;
+    height: 3vh;
+    margin-top: -2.5em;
+    transform: rotate(90deg);
+    background: none;
+    font-size: 16pt;
+    display: inline;
+}*/
+.side2 {
+    background-color: rgb(17, 0, 20);
+    position: fixed;
+    right: 0;
+    top: 50%;
+    width: 2vw;
+    height: 3vh;
+    margin-top: -3.7em;
+    transform: rotate(90deg);
+    background: none;
+    font-size: 18pt;
+    display: inline;
+}
+/*#phone {
+    transform: rotate(90deg);
+}*/
+
+.footer {
+    background-color: #01234011;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background: none;
+}
+#f1 {
+    background-color: blueviolet;
+    width: 10vw;
+    height: 5vh;
+    text-align: center;
+    line-height: 5vh;
+}
+#f2 {
+    background-color: rgb(86, 37, 131);
+    width: 10vw;
+    height: 5vh;
+    text-align: center;
+    line-height: 5vh;
+}
+#f3 {
+    background-color: rgb(88, 61, 112);
+    width: 10vw;
+    height: 5vh;
+    text-align: center;
+    line-height: 5vh;
+}
+#linkedin {
+    font-size: 20px;
+}
+#facebook {
+    font-size: 20px;
+
+}
+#mail {
+    font-size: 20px;
+}
+button {
+    
+    background: none;
+    border: 0;
+    padding: 0%;
+}
+a:hover {
+    color: silver;
+    
+    
+   }
+a {
+    color: rgb(17, 0, 20);
+    
+}
+i {
+    text-align: center;
+    
+}
+.left_menu {
+    text-align: center;
+    line-height: 9vh;
+}
+.menu {
+    background-color: rgb(110, 110, 110);
+    position: fixed;
+    left: 0;
+    top: 2%;
+    width: 9vw;
+    height: 9vh;
+    
+}
+#a {
+    background-color: rgb(83, 66, 66);
+    position: fixed;
+    left: 0;
+    top: 12%;
+    width: 9vw;
+    height: 9vh;
+}
+#b {
+    background-color: rgb(110, 70, 70);
+    position: fixed;
+    left: 0;
+    top: 22%;
+    width: 9vw;
+    height: 9vh;
+}
+#c {
+    background-color: rgb(133, 51, 51);
+    position: fixed;
+    left: 0;
+    top: 32%;
+    width: 9vw;
+    height: 9vh;
+}
+#d {
+    background-color: rgb(124, 27, 27);
+    position: fixed;
+    left: 0;
+    top: 42%;
+    width: 9vw;
+    height: 9vh;
+}
